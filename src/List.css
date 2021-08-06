@@ -1,0 +1,17 @@
+.App-header{
+    padding: 5px;
+    text-align: center;
+}
+
+.container {
+    width: 60%;
+    height: 500px;
+    overflow-y: scroll;
+    margin: auto;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.loading, .error{
+    text-align: center;
+}
